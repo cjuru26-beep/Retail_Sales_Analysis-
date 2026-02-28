@@ -57,8 +57,12 @@ This project demonstrates:
 - Python-based analysis and visualization  
 - Translating data into actionable business insights  
 
-Ideal for showcasing **Data Analyst skills** to recruiters.
 
----
 
-## 📂 Repository Structure
+## 🔗 Author
+**Juru Clemence Uwizeyimana**  
+- Master’s in Management – Warsaw University of business
+
+
+
+
